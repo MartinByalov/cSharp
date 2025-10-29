@@ -1,0 +1,15 @@
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\bin\Debug\net9.0\GrossMargin.exe
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\bin\Debug\net9.0\GrossMargin.deps.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\bin\Debug\net9.0\GrossMargin.runtimeconfig.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\bin\Debug\net9.0\GrossMargin.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\bin\Debug\net9.0\GrossMargin.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.AssemblyInfoInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.AssemblyInfo.cs
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.csproj.CoreCompileInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.sourcelink.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\refint\GrossMargin.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\GrossMargin.genruntimeconfig.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\GrossMargin\obj\Debug\net9.0\ref\GrossMargin.dll

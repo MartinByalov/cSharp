@@ -1,0 +1,15 @@
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\bin\Debug\net9.0\VATCalc.exe
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\bin\Debug\net9.0\VATCalc.deps.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\bin\Debug\net9.0\VATCalc.runtimeconfig.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\bin\Debug\net9.0\VATCalc.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\bin\Debug\net9.0\VATCalc.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.AssemblyInfoInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.AssemblyInfo.cs
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.csproj.CoreCompileInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.sourcelink.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\refint\VATCalc.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\VATCalc.genruntimeconfig.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\VATCalc\obj\Debug\net9.0\ref\VATCalc.dll
