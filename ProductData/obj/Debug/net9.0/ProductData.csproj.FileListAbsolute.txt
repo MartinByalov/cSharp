@@ -1,0 +1,15 @@
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\bin\Debug\net9.0\ProductData.exe
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\bin\Debug\net9.0\ProductData.deps.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\bin\Debug\net9.0\ProductData.runtimeconfig.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\bin\Debug\net9.0\ProductData.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\bin\Debug\net9.0\ProductData.pdb
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.AssemblyInfoInputs.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.AssemblyInfo.cs
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.csproj.CoreCompileInputs.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.sourcelink.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\refint\ProductData.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.pdb
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ProductData.genruntimeconfig.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductData\obj\Debug\net9.0\ref\ProductData.dll
