@@ -1,0 +1,15 @@
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\bin\Debug\net9.0\InventoryUpdate.exe
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\bin\Debug\net9.0\InventoryUpdate.deps.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\bin\Debug\net9.0\InventoryUpdate.runtimeconfig.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\bin\Debug\net9.0\InventoryUpdate.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\bin\Debug\net9.0\InventoryUpdate.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.AssemblyInfoInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.AssemblyInfo.cs
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.sourcelink.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\refint\InventoryUpdate.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\InventoryUpdate.genruntimeconfig.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\InventoryUpdate\obj\Debug\net9.0\ref\InventoryUpdate.dll

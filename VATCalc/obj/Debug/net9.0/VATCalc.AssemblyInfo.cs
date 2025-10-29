@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VATCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8290d97770dbe56eba2f1786f213b672b84f55f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca42a3f3ab13a5714b9bdb79179b516eadaf7c59")]
 [assembly: System.Reflection.AssemblyProductAttribute("VATCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VATCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

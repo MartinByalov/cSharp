@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj": {}
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj": {
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj",
-        "projectName": "ProductData",
-        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj",
+        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj",
+        "projectName": "DiscountCheck",
+        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj",
         "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\obj\\",
+        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"

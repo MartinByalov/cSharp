@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj": {}
+    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj": {
+    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj",
-        "projectName": "ProductData",
-        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\ProductData.csproj",
+        "projectUniqueName": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
+        "projectName": "InventoryUpdate",
+        "projectPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
         "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductData\\obj\\",
+        "outputPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"

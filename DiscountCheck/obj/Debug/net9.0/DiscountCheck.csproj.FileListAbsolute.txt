@@ -1,0 +1,15 @@
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\bin\Debug\net9.0\DiscountCheck.exe
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\bin\Debug\net9.0\DiscountCheck.deps.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\bin\Debug\net9.0\DiscountCheck.runtimeconfig.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\bin\Debug\net9.0\DiscountCheck.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\bin\Debug\net9.0\DiscountCheck.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.AssemblyInfoInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.AssemblyInfo.cs
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.csproj.CoreCompileInputs.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.sourcelink.json
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\refint\DiscountCheck.dll
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.pdb
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\DiscountCheck.genruntimeconfig.cache
+C:\Users\Martin Byalov\Documents\GitHub\cSharp\DiscountCheck\obj\Debug\net9.0\ref\DiscountCheck.dll
