@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj": {}
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj": {
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
+        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
         "projectName": "InventoryUpdate",
-        "projectPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
+        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
         "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\obj\\",
+        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\bin\Debug\net9.0\ProductPriceSort.exe
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\bin\Debug\net9.0\ProductPriceSort.deps.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\bin\Debug\net9.0\ProductPriceSort.runtimeconfig.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\bin\Debug\net9.0\ProductPriceSort.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\bin\Debug\net9.0\ProductPriceSort.pdb
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.AssemblyInfoInputs.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.AssemblyInfo.cs
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.csproj.CoreCompileInputs.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.sourcelink.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\refint\ProductPriceSort.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.pdb
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ProductPriceSort.genruntimeconfig.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\ProductPriceSort\obj\Debug\net9.0\ref\ProductPriceSort.dll

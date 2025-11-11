@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\VATCalc\\VATCalc.csproj",
-      "projectName": "VATCalc",
-      "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\VATCalc\\VATCalc.csproj",
+      "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
+      "projectName": "ProductPriceSort",
+      "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
       "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\VATCalc\\obj\\",
+      "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"

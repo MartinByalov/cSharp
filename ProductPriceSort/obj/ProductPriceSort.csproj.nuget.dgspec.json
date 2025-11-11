@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj": {}
+    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj": {
+    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj",
-        "projectName": "DiscountCheck",
-        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\DiscountCheck.csproj",
+        "projectUniqueName": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
+        "projectName": "ProductPriceSort",
+        "projectPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
         "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\DiscountCheck\\obj\\",
+        "outputPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"
