@@ -29,6 +29,10 @@ public class GrossMargin
 {
     public static void Main(string[] args)
     {
+
+        // Извеждане на кирилица в конзолата
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+
         double sales = 15000.00; // Общи продажби
         double costOfGoods = 9000.00; // Разходи за стоки
         
@@ -37,13 +41,12 @@ public class GrossMargin
         const double TARGET_MARGIN = 0.30; // Целеви марж от 30%
         bool isTargetReached = grossMargin > TARGET_MARGIN; 
 
-        Console.WriteLine($"Брутен марж (като десетична дроб): {grossMargin:F2}"); // 0.40
-        Console.WriteLine($"Целевият марж от {TARGET_MARGIN:P0} достигнат ли е? " + isTargetReached); // True
+        Console.WriteLine($"Брутен марж (като десетична дроб): {grossMargin:F2}");
+        // Както в Excel и тук можем да форматираме. С F2 показваме 2 цифри след десетичната запетая.
+        // F - Fixed-point
+        // P - Percentage
+        // С $ казваме, че можем да включим стойности директно в низа/стринга/изречението
         
-        // Team building - Остатък при деление (Модулно деление)
-        int clients = 7;
-        int teams = 3;
-        int remainingClients = clients % teams; // 7 % 3 = 1
-        Console.WriteLine($"Клиенти, които не могат да бъдат разпределени в 3 отбора: " + remainingClients);
+        Console.WriteLine($"Целевият марж от {TARGET_MARGIN:P0} достигнат ли е? " + isTargetReached); // True
     }
 }
