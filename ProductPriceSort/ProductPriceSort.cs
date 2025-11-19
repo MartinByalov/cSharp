@@ -2,7 +2,6 @@ public class ProductPriceSort
 {
     public static void Main(string[] args)
     {
-
         // Извеждане на кирилица в конзолата
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 

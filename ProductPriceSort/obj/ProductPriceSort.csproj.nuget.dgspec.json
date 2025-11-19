@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj": {}
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj": {
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
+        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
         "projectName": "ProductPriceSort",
-        "projectPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
+        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\ProductPriceSort.csproj",
         "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\obj\\",
+        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\ProductPriceSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"

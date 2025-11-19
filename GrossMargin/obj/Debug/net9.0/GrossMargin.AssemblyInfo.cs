@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrossMargin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3bf954a1f48c24322824ba1ec2af1d508ead867")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65662d9309b1ee68b3dda27156a7e2563fdb3eb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrossMargin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrossMargin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
