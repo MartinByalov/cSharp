@@ -5,7 +5,7 @@ public class ProductPriceSort
         // Извеждане на кирилица в конзолата
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-        // Цени на стоки/суровини от различен доставчик/партидапартида
+        // Цени на стоки/суровини от различен доставчик/партида
         double[] productPrices = { 108.50, 42.15, 95.00, 15.30, 201.75 };
         int n = productPrices.Length;
 
@@ -31,7 +31,7 @@ public class ProductPriceSort
             }
         }
 
-        Console.Write("\nСортирани цени (от най-ниска към най-висока): \n");
+        Console.Write("\n Сортирани цени (от най-ниска към най-висока): \n");
     
         foreach (double price in productPrices) { 
             
