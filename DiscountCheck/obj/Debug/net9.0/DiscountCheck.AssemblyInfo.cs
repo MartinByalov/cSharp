@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscountCheck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3bf954a1f48c24322824ba1ec2af1d508ead867")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65662d9309b1ee68b3dda27156a7e2563fdb3eb5")]
+>>>>>>> c8a81fa8b03c33fb8d190011f0a335b8a9487e2d
 [assembly: System.Reflection.AssemblyProductAttribute("DiscountCheck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscountCheck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

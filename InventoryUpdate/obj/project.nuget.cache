@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VuA/jMVPuZs=",
+=======
+  "dgSpecHash": "hVu3/m2/h30=",
+>>>>>>> c8a81fa8b03c33fb8d190011f0a335b8a9487e2d
   "success": true,
   "projectFilePath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\InventoryUpdate\\InventoryUpdate.csproj",
   "expectedPackageFiles": [],
