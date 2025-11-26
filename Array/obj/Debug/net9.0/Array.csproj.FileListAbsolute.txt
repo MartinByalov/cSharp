@@ -1,0 +1,15 @@
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\bin\Debug\net9.0\Array.exe
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\bin\Debug\net9.0\Array.deps.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\bin\Debug\net9.0\Array.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\bin\Debug\net9.0\Array.pdb
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.sourcelink.json
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\refint\Array.dll
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.pdb
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+c:\Users\Martin Byalov\Documents\GitHub\cSharp\Array\obj\Debug\net9.0\ref\Array.dll
