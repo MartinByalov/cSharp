@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj": {}
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj": {
+    "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj",
+        "projectPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\Martin Byalov\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\obj\\",
+        "outputPath": "C:\\Users\\Martin Byalov\\Documents\\GitHub\\cSharp\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin Byalov\\AppData\\Roaming\\NuGet\\NuGet.Config"
